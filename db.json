@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Learning Vue",
+      "day": "Nov 05",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Learning Next",
+      "day": "May 08 @2pm",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Learning Pinia",
+      "day": "June 08@3pm",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
