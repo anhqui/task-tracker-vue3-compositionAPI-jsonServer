@@ -10,7 +10,6 @@ title="Task Tracker"
 </div>
 </template>
 
-
 <script setup>
 import Header from './components/Header.vue'
 import Footer from './components/Footer.vue'
@@ -21,9 +20,6 @@ const showAddTask = ref(false)
 const toggleAddTask = () =>{
   showAddTask.value = !showAddTask.value
 }
-
-
-
 </script>
 
 
